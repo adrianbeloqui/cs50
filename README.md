@@ -4,4 +4,4 @@
 
 ## Topics:
 
-- [Search](SEARCH_NOTES.md)
+- [Search](./intro_ai/SEARCH_NOTES.md)
