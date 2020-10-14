@@ -1,7 +1,7 @@
-# Introduction to Artificial Intelligence with Python
+# Various courses taken from Harvard's CS50 Program
 
-[Go to course](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
+[All courses](https://online-learning.harvard.edu/)
 
-## Topics:
+Courses taken:
 
-- [Search](./intro_ai/SEARCH_NOTES.md)
+- [Introduction to Artificial Intelligence with Python](./intro_ai)
