@@ -188,16 +188,12 @@ class Maze():
 
                 # Draw cell
                 draw.rectangle(
-                    (
-                        [
-                            (j * cell_size + cell_border, i * cell_size + cell_border),
-                            ((j + 1) * cell_size - cell_border, (i + 1) * cell_size - cell_border)
-                        ]
-                    ),
+                    ([(j * cell_size + cell_border, i * cell_size + cell_border),
+                      ((j + 1) * cell_size - cell_border, (i + 1) * cell_size - cell_border)]),
                     fill=fill
                 )
 
-        img.save(filename)
+        img.save(filename, "PNG")
 
 if len(sys.argv) != 2:
     sys.exit("Usage: python maze.py maze.txt")
