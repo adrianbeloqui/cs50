@@ -10,6 +10,7 @@
     - [Adverserial Search Problems](#adverserial-search-problems)
       - [Game](#game)
       - [Minimax Pseudocode](#minimax-pseudocode)
+- [Projects](#projects)
 
 # Topics
 
@@ -138,3 +139,7 @@
   - for _action_ in _actions(state)_:
     - v = min(v, max-value(result(state, action)))
   - return v
+
+# Projects
+
+[Project 0](./project0)
