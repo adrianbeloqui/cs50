@@ -4,4 +4,4 @@
 
 ## Topics:
 
-- [Search](./lecture_0/SEARCH_NOTES.md)
+- [Search](./lecture_0)
