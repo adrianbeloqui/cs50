@@ -1,0 +1,81 @@
+MINIMAX BOARD:[[None, 'X', 'O'], ['O', 'O', 'X'], ['X', None, None]]
+1 - MAXIMIZING...
+Board: 
+[[None, 'X', 'O'], ['O', 'O', 'X'], ['X', None, None]]
+Alpha: -inf
+Beta: inf
+2 - MINIMAZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', None, None]]
+Alpha: -inf
+Beta: inf
+3 - MAXIMIZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', 'O', None]]
+Alpha: -inf
+Beta: inf
+4 - MINIMAZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', 'O', 'X']]
+Alpha: -inf
+Beta: inf
+5 - MAXIMIZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', None, 'O']]
+Alpha: -inf
+Beta: 0
+6 - MINIMAZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', 'O']]
+Alpha: -inf
+Beta: 0
+7 - MINIMAZING...
+Board: 
+[[None, 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', None]]
+Alpha: 0
+Beta: inf
+8 - MAXIMIZING...
+Board: 
+[['O', 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', None]]
+Alpha: 0
+Beta: inf
+9 - MINIMAZING...
+Board: 
+[['O', 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', 'X']]
+Alpha: 0
+Beta: inf
+10 - MAXIMIZING...
+Board: 
+[[None, 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', 'O']]
+Alpha: 0
+Beta: 1
+11 - MINIMAZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', 'O']]
+Alpha: 0
+Beta: 1
+12 - MINIMAZING...
+Board: 
+[[None, 'X', 'O'], ['O', 'O', 'X'], ['X', None, 'X']]
+Alpha: 0
+Beta: inf
+13 - MAXIMIZING...
+Board: 
+[['O', 'X', 'O'], ['O', 'O', 'X'], ['X', None, 'X']]
+Alpha: 0
+Beta: inf
+14 - MINIMAZING...
+Board: 
+[['O', 'X', 'O'], ['O', 'O', 'X'], ['X', 'X', 'X']]
+Alpha: 0
+Beta: inf
+15 - MAXIMIZING...
+Board: 
+[[None, 'X', 'O'], ['O', 'O', 'X'], ['X', 'O', 'X']]
+Alpha: 0
+Beta: 1
+16 - MINIMAZING...
+Board: 
+[['X', 'X', 'O'], ['O', 'O', 'X'], ['X', 'O', 'X']]
+Alpha: 0
+Beta: 1
